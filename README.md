@@ -1,1 +1,1 @@
-Publisher for MkDocs
+# Publisher for MkDocs
